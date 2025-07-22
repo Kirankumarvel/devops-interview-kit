@@ -1,6 +1,4 @@
-Here's the `commands-cheatsheet.md` file with Docker commands and troubleshooting solutions:
 
-```markdown
 # 2️⃣ Docker Commands & Troubleshooting Cheatsheet
 
 ## 🐳 Essential Commands
