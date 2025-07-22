@@ -1,6 +1,3 @@
-Here's a comprehensive `CONTRIBUTING.md` file for your DevOps interview questions repository:
-
-```markdown
 # 🛠 Contribution Guidelines
 
 Thank you for considering contributing to this DevOps Interview Questions repository! 
